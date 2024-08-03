@@ -1,5 +1,5 @@
 # zoomImage
-In this project, we can zoom on the image.
+Dans ce projet, l'utilisateur peut zoomer sur l'image et dezoomer en cliquant sur l'image.
 
 # Table des matières
 - Aperçu
